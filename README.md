@@ -1,2 +1,2 @@
 # Counter-app
-a baic fun app to increment decrement numbers.
+a basic fun app to increment decrement numbers.
